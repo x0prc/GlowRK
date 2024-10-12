@@ -23,3 +23,7 @@ This Proof-of-Concept Project is prepared to explain the working of a Rootkit an
 - [rkhunter](https://rkhunter.sourceforge.net/)
 - [AIDE](https://aide.github.io/doc/)
 - Unusual .pcapng files
+
+## Replacement Notes
+- In [src/memory_analysis.py](https://github.com/x0prc/GlowRK/src/memory_analysis.py) `path/to/memdump.mem` and `Win7SP1x64` with your actual memory dump file path and operating system profile.
+- 
