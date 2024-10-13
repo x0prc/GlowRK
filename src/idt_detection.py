@@ -1,3 +1,4 @@
+# Interrupt Desciptor Table (Windows)
 import ctypes
 import struct
 import os
