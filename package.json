@@ -1,0 +1,16 @@
+{
+  "name": "glowrk",
+  "version": "1.0.0",
+  "description": "![A](https://github.com/user-attachments/assets/f90e7e50-df29-48be-8f8b-c2bdf93585bc) # GlowRK - x64 Rootkit Analysis - PoC",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
