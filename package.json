@@ -60,6 +60,7 @@
     "progress": "^2.0.3",
     "pump": "^3.0.2",
     "quick-lru": "^5.1.1",
+    "react-scripts": "^5.0.1",
     "resolve-alpn": "^1.2.1",
     "responselike": "^2.0.1",
     "roarr": "^2.15.4",
