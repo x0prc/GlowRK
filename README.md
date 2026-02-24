@@ -1,6 +1,8 @@
 ![A](https://github.com/user-attachments/assets/f90e7e50-df29-48be-8f8b-c2bdf93585bc)
 # GlowRK - x64 Rootkit Analysis - PoC
 
+## [Additional Documentation](https://x0prc.github.io/notes/Notes/Published-Documentation/GlowRK)
+
 ## Motivation
 This Proof-of-Concept Project is prepared to explain the working of a Rootkit and Detecting it on a system. There are various methods and tools used along with a comfortable interface to test out various situations.
 It detects potential rootkits by examining various system components such as the Interrupt Descriptor Table (IDT), System Service Descriptor Table (SSDT), Import Address Table (IAT), and performs integrity checks on critical system files.
@@ -60,12 +62,6 @@ Before you begin, ensure you have met the following requirements:
    - You can check logs in the reports/logs directory for any errors or actions taken during analysis.
 
 
-## Contributing
-- Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
-- Fork the project.
-- Create your feature branch (git checkout -b feature/AmazingFeature).
-- Commit your changes (git commit -m 'Add some AmazingFeature').
-- Push to the branch (git push origin feature/AmazingFeature).
 - Open a pull request.
 
 ## License
